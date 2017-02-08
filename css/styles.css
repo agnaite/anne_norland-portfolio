@@ -1,7 +1,7 @@
 .img-profile {
   border-radius: 100%;
   width: 25%;
-  border: 10px solid #C0C0C0; /* dark blue: #2C3E50 */
+  border: 10px solid #2C3E50; /* rgb(126, 27, 51); dark blue: #2C3E50 */
 }
 
 header {
@@ -10,5 +10,48 @@ header {
 }
 
 #mainNav {
-  background-color: #C0C0C0;
+  background-color: #1abc9c;
+}
+
+p {
+  font-size: 18px;
+  text-align: justify;
+  color: #ecf0f1;
+}
+
+section.success {
+  background-color: #2C3E50;
+}
+
+section.success a {
+  color: #f1c40f;
+}
+
+hr.star-light:after {
+  background-color: #2C3E50;
+}
+
+a, a.active, a:active, a:focus, a:hover {
+  color: #f1c40f;
+  text-decoration: none;
+}
+
+.navbar-custom .navbar-nav li a:hover {
+  color: #f1c40f;
+}
+
+.navbar-custom .navbar-nav li.active a, 
+.navbar-custom .navbar-nav li.active a:active, 
+.navbar-custom .navbar-nav li.active a:focus, 
+.navbar-custom .navbar-nav li.active a:hover  {
+  background: #f1c40f;
+}
+
+h2 {
+  color: #2C3E50;
+}
+
+.btn-success {
+  border-color: #f1c40f;
+  background-color: #f1c40f;
 }
