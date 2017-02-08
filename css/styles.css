@@ -1,0 +1,14 @@
+.img-profile {
+  border-radius: 100%;
+  width: 25%;
+  border: 10px solid #C0C0C0; /* dark blue: #2C3E50 */
+}
+
+header {
+  background-color: #fff;
+  color: #2C3E50;
+}
+
+#mainNav {
+  background-color: #C0C0C0;
+}
