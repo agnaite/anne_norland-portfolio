@@ -137,6 +137,15 @@ h2 {
     margin-right: 10px;
 }
 
+/* Table */
+
+.table>tbody>tr>th {
+  border: none;
+  text-transform: uppercase;
+  color: #f1c40f;
+}
+
+
 /**
   MEDIA QUERIES
 */
