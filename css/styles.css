@@ -145,6 +145,13 @@ h2 {
   color: #f1c40f;
 }
 
+li {
+  list-style: none;
+}
+
+.subhead {
+  color: #f1c40f;
+}
 
 /**
   MEDIA QUERIES
